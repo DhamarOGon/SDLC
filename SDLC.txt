@@ -3,5 +3,11 @@ defeniction of SDLC
 purpose
 
 stages 
-
+-planing
+-analyzeses
+-design
+-development
+-testing
+-impolments 
+-maintenced 
 Mythosolagies 
